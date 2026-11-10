@@ -12,7 +12,9 @@ Python · Jupyter · OpenCV · NumPy · fastai / PyTorch · Matplotlib
 
 </div>
 
-![Labelled nighttime camera frames displayed by the training notebook](docs/images/training-samples.png)
+| Fox | Cat |
+| --- | --- |
+| ![Fox passing close to the camera at night](docs/images/fox-example.png) | ![Cat looking into the camera at close range](docs/images/cat-example.png) |
 
 ## Overview
 
